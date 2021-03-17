@@ -3,6 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">my-generated-nuxt</h1>
+      <h2 class="title">testing deployment</h2>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
